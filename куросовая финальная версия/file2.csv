@@ -1,0 +1,104 @@
+first_name,last_name,passport_details,ticket_class,price,flight_name,description,weight
+John,Doe,A12345678,Economy,300,FL123,Carry-On,7
+Jane,Smith,B23456789,Business,1200,FL124,Suitcase,22.5
+Alice,Johnson,C34567890,First Class,1500,FL125,Handbag,5
+Bob,Brown,D45678901,Economy,320,FL126,Backpack,8
+Charlie,Davis,E56789012,Business,1100,FL127,Carry-On,7.5
+Diana,Evans,F67890123,First Class,1600,FL128,Laptop Bag,4.5
+Evan,Garcia,G78901234,Economy,340,FL129,Travel Bag,9
+Fay,Harris,H89012345,Business,1150,FL130,Suitcase,23
+George,Ingram,I90123456,First Class,1700,FL131,Handbag,5.5
+Hannah,Jones,J01234567,Economy,360,FL132,Backpack,10
+Ivan,Kent,K12345678,Business,1300,FL133,Carry-On,8.5
+Julia,Lewis,L23456789,First Class,1800,FL134,Laptop Bag,6
+Kevin,Miller,M34567890,Economy,380,FL135,Travel Bag,9.5
+Laura,Nash,N45678901,Business,1250,FL136,Suitcase,24
+Mike,Owens,O56789012,First Class,1900,FL137,Handbag,7
+Nina,Perez,P67890123,Economy,400,FL138,Backpack,11
+Oscar,Quinn,Q78901234,Business,1350,FL139,Carry-On,9.5
+Paula,Ross,R89012345,First Class,2000,FL140,Laptop Bag,6.5
+Quinn,Sanders,S90123456,Economy,420,FL141,Travel Bag,10.5
+Rachel,Turner,T01234567,Business,1400,FL142,Suitcase,25
+Steve,Underwood,U12345678,First Class,2100,FL143,Handbag,7.5
+Tom,Vasquez,V23456789,Economy,440,FL144,Backpack,12
+Uma,White,W34567890,Business,1450,FL145,Carry-On,10
+Victor,Xavier,X45678901,First Class,2200,FL146,Laptop Bag,7
+Wendy,Yang,Y56789012,Economy,460,FL147,Travel Bag,11.5
+Xander,Zimmerman,Z67890123,Business,1500,FL148,Suitcase,26
+Yara,Anderson,A78901234,First Class,2300,FL149,Handbag,8
+Zane,Baker,B89012345,Economy,480,FL150,Backpack,13
+Amy,Collins,C90123456,Business,1550,FL151,Carry-On,10.5
+Brian,Daniels,D01234567,First Class,2400,FL152,Laptop Bag,7.5
+Chloe,Edwards,E12345678,Economy,500,FL153,Travel Bag,12.5
+David,Foster,F23456789,Business,1600,FL154,Suitcase,27
+Ella,Gonzalez,G34567890,First Class,2500,FL155,Handbag,8.5
+Frank,Harris,H45678901,Economy,520,FL156,Backpack,14
+Grace,Irving,I56789012,Business,1650,FL157,Carry-On,11
+Henry,James,J67890123,First Class,2600,FL158,Laptop Bag,8
+Isabel,Knight,K78901234,Economy,540,FL159,Travel Bag,13.5
+Jack,Lee,L89012345,Business,1700,FL160,Suitcase,28
+Kara,Moore,M90123456,First Class,2700,FL161,Handbag,9
+Leo,Nelson,N01234567,Economy,560,FL162,Backpack,15
+Mia,Olsen,O12345678,Business,1750,FL163,Carry-On,12
+Noah,Park,P23456789,First Class,2800,FL164,Laptop Bag,9
+Olivia,Quinn,Q34567890,Economy,580,FL165,Travel Bag,14.5
+Peter,Rogers,R45678901,Business,1800,FL166,Suitcase,29
+Quincy,Stewart,S56789012,First Class,2900,FL167,Handbag,10
+Rachel,Thompson,T67890123,Economy,600,FL168,Backpack,16
+Sam,Underwood,U78901234,Business,1850,FL169,Carry-On,13
+Tina,Valdez,V89012345,First Class,3000,FL170,Laptop Bag,10
+Uma,Williams,W90123456,Economy,620,FL171,Travel Bag,15.5
+Victor,Xavier,X01234567,Business,1900,FL172,Suitcase,30
+Wanda,York,Y12345678,First Class,3100,FL173,Handbag,11
+Xander,Zane,Z23456789,Economy,640,FL174,Backpack,17
+Yvonne,Adams,A34567890,Business,1950,FL175,Carry-On,14
+Zach,Black,B45678901,First Class,3200,FL176,Laptop Bag,11
+Aaron,Carter,C56789012,Economy,660,FL177,Travel Bag,16.5
+Betty,Donovan,D67890123,Business,2000,FL178,Suitcase,31
+Charles,Edwards,E78901234,First Class,3300,FL179,Handbag,12
+Daisy,Foster,F89012345,Economy,680,FL180,Backpack,18
+Eddie,Green,G01234567,Business,2050,FL181,Carry-On,15
+Fiona,Hughes,H12345678,First Class,3400,FL182,Laptop Bag,12
+George,Ingram,I23456789,Economy,700,FL183,Travel Bag,17.5
+Hannah,Johnson,J34567890,Business,2100,FL184,Suitcase,32
+Ian,Kent,K45678901,First Class,3500,FL185,Handbag,13
+Julia,Lewis,L56789012,Economy,720,FL186,Backpack,19
+Kevin,Morris,M67890123,Business,2150,FL187,Carry-On,16
+Laura,Nash,N78901234,First Class,3600,FL188,Laptop Bag,13
+Mike,Owens,O89012345,Economy,740,FL189,Travel Bag,18.5
+Nina,Perez,P01234567,Business,2200,FL190,Suitcase,33
+Oscar,Quinn,Q12345678,First Class,3700,FL191,Handbag,14
+Paula,Ross,R23456789,Economy,760,FL192,Backpack,20
+Quinn,Stewart,S34567890,Business,2250,FL193,Carry-On,17
+Rachel,Turner,T45678901,First Class,3800,FL194,Laptop Bag,14
+Steve,Underwood,U56789012,Economy,780,FL195,Travel Bag,19.5
+Tom,Vasquez,V67890123,Business,2300,FL196,Suitcase,34
+Uma,Williams,W78901234,First Class,3900,FL197,Handbag,15
+Victor,Xavier,X89012345,Economy,800,FL198,Backpack,21
+Wendy,Yang,Y01234567,Business,2350,FL199,Carry-On,18
+Xander,Zane,Z12345678,First Class,4000,FL200,Laptop Bag,15
+Zara,Moore,Z12345679,Economy,340,FL201,Carry-On,7
+Liam,Smith,L23456780,Business,1500,FL202,Suitcase,20
+Sophia,Jones,S34567891,First Class,2000,FL203,Handbag,5.5
+Mason,Brown,M45678902,Economy,350,FL204,Backpack,8.5
+Ava,Davis,A56789013,Business,1200,FL205,Carry-On,7.5
+James,Garcia,J67890124,First Class,2200,FL206,Laptop Bag,4
+Ella,Martinez,E78901235,Economy,360,FL207,Travel Bag,9
+Lucas,Hernandez,L89012346,Business,1300,FL208,Suitcase,22
+Emily,Martinez,E90123457,First Class,2300,FL209,Handbag,6.5
+Oliver,Williams,O01234568,Economy,370,FL210,Backpack,10
+Isabella,Smith,I12345679,Business,1400,FL211,Carry-On,8
+Benjamin,Johnson,B23456780,First Class,2400,FL212,Laptop Bag,5.5
+Charlotte,Lee,C34567891,Economy,380,FL213,Travel Bag,11
+William,Brown,W45678902,Business,1500,FL214,Suitcase,24
+Amelia,Jones,A56789013,First Class,2500,FL215,Handbag,7
+Ethan,Davis,E67890124,Economy,390,FL216,Backpack,12
+Mia,Garcia,M78901235,Business,1600,FL217,Carry-On,9.5
+Henry,Martinez,H89012346,First Class,2600,FL218,Laptop Bag,6
+Alexander,Hernandez,A90123457,Economy,400,FL219,Travel Bag,13
+Grace,Williams,G01234568,Business,1700,FL220,Suitcase,26
+Harper,Johnson,H12345679,First Class,2700,FL221,Handbag,8
+Jack,Lee,J23456780,Economy,410,FL222,Backpack,14
+Harry,Keyn,B98765432,First,600,FL490,Carry-On,-3
+Bob,Brown,C87654321,Economy,250,FL223,Checked,10
+Alice,Smith,B98765432,First,600,FL456,Carry-On,3
